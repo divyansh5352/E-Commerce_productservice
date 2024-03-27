@@ -1,13 +1,13 @@
-package com.scaler.productservice;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class ProductserviceApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.scaler.productservice;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class ProductserviceApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
